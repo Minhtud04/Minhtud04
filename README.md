@@ -3,6 +3,7 @@
 <h2>Introduction</h2>
 <img  align = "right" src = "https://art.pixilart.com/sr2712ab0b35ecd.gif" alt = "Coding" width = "150" >
 <p align = "left">
+  
 - 🌱 CS & Math student at **DePauw University**
 
 - 👨‍💻 Software Engineer Intern at **FPT Software**
