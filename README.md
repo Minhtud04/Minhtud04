@@ -18,7 +18,7 @@
 
 <h2 align="left">Github Status </h2>
 <!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=minhtud04&" alt="minhtud04" /></p> -->
-<p><img  src="https://github-readme-stats.vercel.app/api?username=minhtud04&show_icons=true&locale=en" alt="minhtud04" /></p>
+<!-- <p><img  src="https://github-readme-stats.vercel.app/api?username=minhtud04&show_icons=true&locale=en" alt="minhtud04" /></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtud04&show_icons=true&locale=en&layout=compact" alt="minhtud04" /></p>
 
 
