@@ -5,7 +5,7 @@
 ### 🚀 Current Projects
 - **[BusTub DBMS](https://github.com/Minhtud04/bustub-private-minhtud-fall25)** - CMU 15-445 Database Systems (Private Repo) || C++
 
-- **[deLink](https://github.com/Minhtud04/deLink_main_service)** - App connecting student & alums || Java + Docker
+- **[deLink](https://github.com/Minhtud04/deLink_main_service)** - Backend | App connecting student & alums || Java + Docker
 
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -23,8 +23,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minhtud04&show_icons=true&locale=en&layout=compact" alt="minhtud04" /></p>
 
 ### Connect
-<a href="https://linkedin.com/in/https://linkedin.com/in/minhtud04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/minhtud04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/minhtud04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/minhtud04" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/https://leetcode.com/minhtud04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/minhtud04/" height="30" width="40" /></a>
+<a href="https://leetcode.com/minhtud04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/minhtud04/" height="30" width="40" /></a>
 **LC ~ 1000+**
 
